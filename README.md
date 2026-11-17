@@ -48,3 +48,13 @@ zaicoのAPIを利用するためzaicoのアカウントを登録し、APIトー�
 本プロジェクトを [**Duplicate** してください](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)（Fork しないようにしてください。必要ならプライベートリポジトリにしても大丈夫です）。今後のコミットは全てご自身のリポジトリで行ってください。
 
 次の選考を開始する前までに[課題](https://github.com/zaicodev/zaico_android_codingtest/issues/9)を確認・対応し、出来た所までで問題ありませんので、リポジトリのアドレスをご連絡ください。
+
+### 生成AIの利用について
+
+課題の取り組みにあたり、ChatGPT・Claude・GitHub Copilot などの生成AIツールを利用していただいて構いません。
+利用の有無によって評価が変わることはありません。
+
+ただし、以下の点にご注意ください。
+
+- 提出いただいたコードは、ご自身で内容を理解し、設計や実装の意図を説明できる状態にしてください（次の選考で質問させていただく場合があります）
+- 生成AIを利用した場合は、使用したツール名と用途（例：テストコードの雛形作成、リファクタリング案の検討など）を README などに簡単に記載してください
